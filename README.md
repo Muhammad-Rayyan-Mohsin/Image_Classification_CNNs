@@ -9,6 +9,10 @@
 For the Bytewise ML Fellowship Program, I developed an image classification project using TensorFlow and Streamlit. The goal of this project was to classify images of vegetables and fruits into predefined categories using a Convolutional Neural Network (CNN) model. The project involved several key components, including data preprocessing, model training, and creating a web application for real-time image classification.
 
 ---
+![image](https://github.com/user-attachments/assets/a2a6ee9b-6b3e-4d17-b59c-3b85fbc70250)
+![image](https://github.com/user-attachments/assets/d45acab8-5ef7-43d1-a0b6-028004e7c984)
+
+
 
 ### 1. Data Preparation
 
